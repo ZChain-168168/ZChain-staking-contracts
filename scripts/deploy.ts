@@ -1,6 +1,6 @@
 import { ethers } from "hardhat";
 
-const MIN_VALIDATOR_COUNT = 3;
+const MIN_VALIDATOR_COUNT = 1;
 const MAX_VALIDATOR_COUNT = 100;
 
 async function main() {
